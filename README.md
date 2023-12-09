@@ -21,4 +21,6 @@ This will build the project using tsc command
 
  This is the command that will run the crawler
 
+After the command exetutes, you will be able to find a report in the aforementioned "reports" directory with the page counts and the pages thast the crawler had visited/seen.
+
 
