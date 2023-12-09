@@ -7,9 +7,11 @@
 
 ## How to init:
 > npm install
+
 Installs packages required for the project
 
 > npm run build
+
 This will build the project using tsc command
 
 **Create "reports" directory in the main directory where the ts code has been built.**
