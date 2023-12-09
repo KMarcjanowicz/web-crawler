@@ -17,7 +17,7 @@ This will build the project using tsc command
 **Create "reports" directory in the main directory where the ts code has been built.**
 
  ## How to run
- >npm run <website name> <depth-level>
+ >npm run \<website name\> \<depth-level\>
 
  This is the command that will run the crawler
 
