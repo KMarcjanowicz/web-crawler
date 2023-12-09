@@ -1,7 +1,7 @@
 # web-crawler
  Simple web crawler stub project.
  Currently can crawl modern pages, has issue on pages using php files.
-
+ Written in TS-Node.js, TDD moethodology, Jest for testing
 
 
 
